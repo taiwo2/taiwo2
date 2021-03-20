@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack web-developer on `Ruby`, `Ruby on Rails`, `JavaScript` and `React`. I absolutely love writing clean and expressive code. I would love to solve problems through coding.
+I'm a full-stack web developer on `Ruby`, `Ruby on Rails`, `JavaScript` and `React`. I absolutely love writing clean and expressive code. I would love to solve problems through coding.
 
 
 ## Stacks that I work with
