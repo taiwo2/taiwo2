@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a full-stack web developer on `Ruby`, `Ruby on Rails`, `JavaScript` and `React`. I love writing clean and expressive code. I love to solve problems through coding.
+Here is a link to my [portfolio](https://taiwo2.github.io/portfolio/)
 
 
 ## Stacks that I work with
